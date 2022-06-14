@@ -6,6 +6,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusbwv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbwv&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  <h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{matheusbwv}/count.svg" alt="matheusbwv :: Visitor's Count" /></p>
+<div align="center">
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="matheus-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="matheus-C " height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
