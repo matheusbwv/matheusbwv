@@ -19,7 +19,7 @@
   <img align="center" alt="matheus-typescript" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="matheus-node" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="matheus-ruby" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
-  <img align="center" alt="matheus-C" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C/C-original.svg">
+  <img align="center" alt="matheus-C#" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C#/C#-original.svg">
 
 
 
