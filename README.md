@@ -3,8 +3,6 @@
 - 𝓪𝓽𝓾𝓪𝓵𝓶𝓮𝓷𝓽𝓮 𝓮𝓼𝓽𝓾𝓭𝓪𝓷𝓭𝓸 - 𝓽𝓮𝓷𝓽𝓪𝓷𝓭𝓸 𝓯𝓲𝓬𝓪𝓻 𝓫𝓸𝓶 𝓮𝓶 𝓫𝓪𝓬𝓴-𝓮𝓷𝓭 😁
 <div align="center">
   <a href="https://github.com/matheusbwv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusbwv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbwv&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{matheusbwv}/count.svg" alt="matheusbwv :: Visitor's Count" /></p>
