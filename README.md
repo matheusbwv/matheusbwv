@@ -1,37 +1,69 @@
-## - 𝑚𝑦 𝑛𝑎𝑚𝑒: 𝑀𝑎𝑡ℎ𝑒𝑢𝑠
-- 𝑙𝑜𝑐𝑎𝑡𝑖𝑜𝑛: 𝑐𝑒𝑎𝑟𝑎, 𝑗𝑢𝑎𝑧𝑒𝑖𝑟𝑜 𝑑𝑜 𝑛𝑜𝑟𝑡𝑒 
-- 𝓪𝓽𝓾𝓪𝓵𝓶𝓮𝓷𝓽𝓮 𝓮𝓼𝓽𝓾𝓭𝓪𝓷𝓭𝓸 𝓫𝓪𝓬𝓴-𝓮𝓷𝓭 😁
 <div align="center">
-  <a href="https://github.com/matheusbwv">
+  <img height="150" src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif"  />
 </div>
-  <h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{matheusbwv}/count.svg" alt="matheusbwv :: Visitor's Count" /></p>
+
+###
+
 <div align="center">
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="matheus-Git" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="matheus-java" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="matheus-python" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="matheus-JS" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="matheus-SQL" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="matheus-typescript" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="matheus-node" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="matheus-ruby" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
-  <img align="center" alt="matheus-C#" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-
-
-  <img align="right" alt="matheus-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/52a999dd5f70ad2b6c2e7db930e9764b.gif">
-  <img align="left" alt="matheus-pic" height="50" style="border-radius:40px;"   src="https://camo.githubusercontent.com/27580a32faa17e70eb452c4d5da3c99194238de3451ffebb88ac92b53f50b98a/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d64656661756c742e676966">
-</div>
-  
-  ##
- 
-<div> 
   <a href="https://instagram.com/matheuswenes" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/playlist/0S99tF0OGjgXP2DxSvs5g2" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheuswenes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://steamcommunity.com/id/SrCastiell/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
-  
-  ![snake gif](https://github.com/matheusbwv/matheusbwv/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=matheusbwv.matheusbwv&"  />
+</div>
+
+###
+
+<h1 align="center">Bem-Vindo👋</h1>
+
+###
+
+<h3 align="left">👩‍💻Sobre mim</h3>
+
+###
+
+<p align="left">Sou Matheus, Brasileiro🌎<br><br>- 🔭Back-end Developer <br>- 📚atualmente aprendendo Typescript<br>- ⚡ no meu tempo livre gosto de jogar 🕹</p>
+
+###
+
+<h3 align="left">🛠 Linguagem e ferramentas </h3>
+
+###
+
+<div align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" height="30" alt="postman logo"  />
+  <img width="12" />
+</div>
+
+
+<h3 align="left">🤓 status:</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusbwv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusbwv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
