@@ -38,7 +38,6 @@
 <div align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="30" alt="github logo"  />
