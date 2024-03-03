@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Sou Matheus, Brasileiro🌎<br><br>- 🔭Back-end Developer <br>- 📚atualmente aprendendo Typescript<br>- ⚡ no meu tempo livre gosto de jogar 🕹</p>
+<p align="left">Sou Matheus, Brasileiro🌎<br><br>- 🔭Back-end Developer <br>- 📚atualmente aprendendo Java<br>- ⚡ no meu tempo livre gosto de jogar 🕹</p>
 
 ###
 
@@ -36,11 +36,8 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="30" alt="python logo"  />
   <img width="12" />
