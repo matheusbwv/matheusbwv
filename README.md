@@ -58,6 +58,7 @@
 <h3 align="left">🤓 status:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusbwv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=false" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusbwv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbwv&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
