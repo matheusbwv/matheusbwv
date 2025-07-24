@@ -23,7 +23,8 @@
 
 ###
 
-<p align="left">Sou Matheus, Brasileiro🌎<br><br>- 🔭Back-end Developer <br>- 📚 6º semestre de S.I. <br>- ⚡ no meu tempo livre gosto de jogar 🕹</p>
+<p align="left">Sou Matheus, Brasileiro🌎<br><br>- 🔭Back-end Developer <br>- 📚 6º semestre de S.I. 
+
 
 ###
 
