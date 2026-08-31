@@ -1,11 +1,5 @@
-<h1 align="center">Olá, eu sou Matheus Wenes 👋</h1>
-
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/master/assets/208593.gif"
-    alt="Animação de apresentação"
-    width="700"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=Matheus+Wenes" alt="Matheus Wenes">
 </div>
 
 <br>
@@ -62,10 +56,5 @@
 ## Contribuições 📊
 
 <div align="center">
-  <img
-    src="./profile-3d-contrib/profile-night-rainbow.svg"
-    alt="Gráfico 3D de contribuições"
-    width="100%"
-  />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Gráfico 3D de contribuições" width="100%">
 </div>
-
