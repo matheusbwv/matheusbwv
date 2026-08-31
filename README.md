@@ -4,7 +4,7 @@
 
 <br>
 
-## Sobre mim 💬
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=400&size=20&duration=1800&pause=1400&color=FFFFFF&vCenter=true&width=500&height=38&lines=Sobre+mim" alt="Sobre mim">
 
 <img src="https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/master/assets/1936.gif" alt="Animação decorativa" width="420" align="right">
 
@@ -14,7 +14,7 @@
 - 🐍 Desenvolvendo projetos e scripts com Python
 - 🐧 Experiência com ambientes Linux e Windows
 
-### Interesses
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=400&size=18&duration=1800&pause=1400&color=FFFFFF&vCenter=true&width=500&height=34&lines=Interesses" alt="Interesses">
 
 - ✨ Infraestrutura, virtualização e containers
 - ✨ Inteligência artificial e automação
@@ -22,7 +22,7 @@
 
 <br clear="right">
 
-## Linguagens e ferramentas 👨‍💻 🛠️
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=400&size=20&duration=1800&pause=1400&color=FFFFFF&vCenter=true&width=500&height=38&lines=Linguagens+e+ferramentas" alt="Linguagens e ferramentas">
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,windows&theme=dark" alt="Python, Bash, PowerShell, Linux e Windows">
@@ -34,7 +34,7 @@
 
 <br>
 
-## Contato 🤝
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=400&size=20&duration=1800&pause=1400&color=FFFFFF&vCenter=true&width=500&height=38&lines=Contato" alt="Contato">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheuswenes/">
@@ -53,7 +53,7 @@
 
 <br>
 
-## Contribuições 📊
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=400&size=20&duration=1800&pause=1400&color=FFFFFF&vCenter=true&width=500&height=38&lines=Contribui%C3%A7%C3%B5es" alt="Contribuições">
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Gráfico 3D de contribuições" width="100%">
