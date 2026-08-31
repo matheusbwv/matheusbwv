@@ -25,11 +25,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=400&size=20&duration=1800&pause=1400&color=FFFFFF&vCenter=true&width=500&height=38&lines=Linguagens+e+ferramentas" alt="Linguagens e ferramentas">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,windows&theme=dark" alt="Python, Bash, PowerShell, Linux e Windows">
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=docker,ansible,kubernetes,pytorch,tensorflow,jupyter&theme=dark" alt="Docker, Ansible, Kubernetes, PyTorch, TensorFlow e Jupyter">
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, Visual Studio Code e Postman">
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,linux,windows,docker,git,github,vscode,postman&theme=dark" alt="Python, Bash, PowerShell, Linux, Windows, Docker, Git, GitHub, Visual Studio Code e Postman">
 </div>
 
 <br>
