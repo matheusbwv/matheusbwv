@@ -13,7 +13,6 @@
 - 🤖 Explorando inteligência artificial e automação
 - 🐍 Desenvolvendo projetos e scripts com Python
 - 🐧 Experiência com ambientes Linux e Windows
-- 
 <br clear="right">
 
 <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=400&size=20&duration=1800&pause=1400&color=FFFFFF&vCenter=true&width=500&height=38&lines=Linguagens+e+ferramentas" alt="Linguagens e ferramentas">
