@@ -12,12 +12,7 @@
 
 ## Sobre mim 💬
 
-<img
-  src="https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/master/assets/1936.gif"
-  alt="Animação decorativa"
-  width="420"
-  align="right"
->
+<img src="https://raw.githubusercontent.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/master/assets/1936.gif" alt="Animação decorativa" width="420" align="right">
 
 - 🎓 Estudante do 7º semestre de Sistemas de Informação
 - 🖥️ Focado em infraestrutura e suporte de TI
